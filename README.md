@@ -5,4 +5,4 @@ A simple **C++ implementation** of the **Needleman-Wunsch algorithm** using arra
 ## 📊 Theory  
 A PowerPoint presentation explaining the algorithm is included:  
 
-📄 ([Needleman Wunsch Visualization.pptx](https://github.com/user-attachments/files/18987553/Needleman.Wunsch.Visualization.pptx)
+📄 ([Needleman Wunsch Visualization.pptx](https://github.com/user-attachments/files/18987553/Needleman.Wunsch.Visualization.pptx))
